@@ -40,7 +40,7 @@ module.exports = {
      * @type {string}
      * @default "mongodb+srv://..."
      */
-    MONGODB_URI: process.env.MONGODB_URI || 'mongodb+srv://offarslan_db_user:arslanmd@cluster0.xrqkzwg.mongodb.net/?appName=Cluster0',
+    MONGODB_URI: process.env.MONGODB_URI || 'mongodb+srv://oshadhaoshadha12345_db_user:SH0m8ksHl8A0ZfBF@oshiya.bc9b5e4.mongodb.net/?appName=Oshiya',
 
     // ═══════════════════════════════════════════════════════════════════════
     //  🤖 BOT IDENTITY
@@ -58,7 +58,7 @@ module.exports = {
      * @type {string}
      * @default "+923237045919"
      */
-    OWNER_NUMBER: process.env.OWNER_NUMBER || '+923237045919',
+    OWNER_NUMBER: process.env.OWNER_NUMBER || '+94756599952',
     
     /** 
      * @description Display name of the bot
